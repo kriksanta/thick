@@ -1,0 +1,58 @@
+/**
+ * @name santa3
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://media0.giphy.com/media/PHLYfNRLQ4NFcZ3OrA/giphy.gif?cid=ecf05e47dihl0hu673ahc3ab985uergf5gb8s7p1zxzy6t2w&rid=giphy.gif&ct=g');
+  --background-image-blur: 0px;
+  --background-image-size: contain;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/EowobuM.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/YxBEDJE.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: contain;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/M8X59Pk.jpg');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.3;
+  --left-brightness: 0.64;
+  --middle-brightness: 0.82;
+  --right-brightness: 0.16;
+  --overlay-brightness: 0.58;
+  --gradient-primary: 118,0,0;
+  --gradient-secondary: 244,67,54;
+  --link-colour: #FFFFFF;
+  --scrollbar-colour: rgb(244,67,54,1);
+  --gradient-direction: 198deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0.26;
+  --font: Black Ops One;
+  --window-padding: 5px;
+  --window-roundness: 24px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+}
+
+/* Any custom CSS below here */
+
+
